@@ -1,0 +1,10 @@
+https://www.kaggle.com/joniarroba/noshowappointments
+https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia
+https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410
+https://stackoverflow.com/questions/22923775/calculate-pandas-dataframe-time-difference-between-two-columns-in-hours-and-minu
+https://www.geeksforgeeks.org/creating-a-dataframe-from-pandas-series/
+https://matplotlib.org/3.3.1/
+https://www.youtube.com/watch?v=YnuCH7WrGjg
+https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/nested_pie.html
+https://www.youtube.com/watch?v=5yVKSB-WtuM
+https://www.who.int/substance_abuse/publications/global_alcohol_report/profiles/bra.pdf?ua=1
