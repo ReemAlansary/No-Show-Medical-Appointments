@@ -13,4 +13,10 @@
 - A summary of the conclusions derived for this dataset was stated
 - A summary of the limitations for this dataset was stated
 
-The necessary libraries for this project can be found as follows [image](C:\Users\reema\Desktop\Scholarship\Advanced Data Analysis\project-1\submission\imports.png)
+The necessary libraries for this project are:
+1. numpy
+2. pandas 
+3. math
+4. matplotlib.pyplot
+5. seaborn
+6. matplotlib.patches
