@@ -2,6 +2,7 @@
 > This is a data analysis project performed on a dataset from Kaggle that holds information for medical appointments in the year 2016. It is a part of the data analysis nanodegree on Udacity. The source of the data in addition to eplanation of the variables present can be found [here](https://www.kaggle.com/joniarroba/noshowappointments). It is worth mentioning that some column names found in the description of the dataset on Kaggle are not the actual column names available in the downloadable file. Moreover, some of the column domains may contradict those associated with the description on Kaggle, such as the domain for the variable `Handicap` which is a categorical variable. 
 
 *The programming language used throughout the project is python*
+
 *The code and analysis for this project can be found entirely in one Jupyter Notebook*
 
 #### Primarily, this project focuses on deriving insights into the data, which was first provided as a *.csv* file. However, a simple data wrangling process had to be carried first as the data was unclean.
